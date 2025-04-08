@@ -1,0 +1,22 @@
+F:\MSU\Research Group\Experiment\Shopping\Shopping\Shopping\bin\Debug\net6.0\Shopping.deps.json
+F:\MSU\Research Group\Experiment\Shopping\Shopping\Shopping\bin\Debug\net6.0\Shopping.dll
+F:\MSU\Research Group\Experiment\Shopping\Shopping\Shopping\bin\Debug\net6.0\Shopping.pdb
+F:\MSU\Research Group\Experiment\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+F:\MSU\Research Group\Experiment\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfoInputs.cache
+F:\MSU\Research Group\Experiment\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfo.cs
+F:\MSU\Research Group\Experiment\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CoreCompileInputs.cache
+F:\MSU\Research Group\Experiment\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.dll
+F:\MSU\Research Group\Experiment\Shopping\Shopping\Shopping\obj\Debug\net6.0\refint\Shopping.dll
+F:\MSU\Research Group\Experiment\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.pdb
+F:\MSU\Research Group\Experiment\Shopping\Shopping\Shopping\obj\Debug\net6.0\ref\Shopping.dll
+C:\Users\hunte\Downloads\Shopping\Shopping\Shopping\bin\Debug\net6.0\Shopping.deps.json
+C:\Users\hunte\Downloads\Shopping\Shopping\Shopping\bin\Debug\net6.0\Shopping.dll
+C:\Users\hunte\Downloads\Shopping\Shopping\Shopping\bin\Debug\net6.0\Shopping.pdb
+C:\Users\hunte\Downloads\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\Downloads\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfoInputs.cache
+C:\Users\hunte\Downloads\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfo.cs
+C:\Users\hunte\Downloads\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\hunte\Downloads\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.dll
+C:\Users\hunte\Downloads\Shopping\Shopping\Shopping\obj\Debug\net6.0\refint\Shopping.dll
+C:\Users\hunte\Downloads\Shopping\Shopping\Shopping\obj\Debug\net6.0\Shopping.pdb
+C:\Users\hunte\Downloads\Shopping\Shopping\Shopping\obj\Debug\net6.0\ref\Shopping.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ksz8vLhAuPXNfB8WhaMMUC1sgbqc3RFsE60W9mANtnAYCS6b8ryHwSWwHFMLeNqxFEdg7VN3Or7HwdRm+Ks/Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hunte\\Downloads\\Shopping\\Shopping\\Shopping\\Shopping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hunte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
